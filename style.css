@@ -1,0 +1,123 @@
+html, body{height: 100vh;}
+.kr-kolonna{background: linear-gradient(180deg, #0084F8 0%, #00C6FF 100%);}
+.lb-kolonna{
+    background: #e5e5e5;
+}
+/* h1{
+    padding-top:128px;} */
+.group1{
+border: 1px solid black;
+position: absolute;
+width: 80%;
+height: 256px;
+left: 76px;
+top: 155px;
+    }
+.sveiciens{
+    margin: 0 auto;
+    width: 361px;
+    height: 140px;
+    
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 70px;
+    /* or 130% */
+    
+    text-align: center;
+    
+    /* primary/white */
+    
+    color: #FFFFFF;
+}
+.line{
+    
+    width: 248px;
+    height: 0px;
+   
+    
+    /* primary/white */
+    
+    border: 1px solid #FFFFFF;
+}
+.paskaidrojums{
+    
+    width: 449px;
+    height: 36px;
+    
+    
+    /* header/h5 */
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    /* primary/white */
+    
+    color: #FFFFFF;
+}
+.kimija{
+    margin: 0 auto;
+    margin-top: 10vh;
+    display: block;
+}
+.zila{
+    color: blue;
+}
+.peleka{
+    color: cadetblue;
+}
+.kaste{
+    display: block;
+}
+.poga1{
+    font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 34px;
+display: inline;
+align-items: center;
+color: #FFFFFF;
+background: #0084F8;
+}
+.poga2{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    display: inline;
+    align-items: center;
+    
+    color: #0084F8; 
+    border: 1px solid #0084F8;  
+}
+.pa-kreisi{
+    text-align: left;
+}
+.poga3{
+    font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 34px;
+display: flex;
+align-items: center;
+
+/* primary/white */
+
+color: #FFFFFF;
+background-color: red;
+border: 1px solid red;
+position: absolute;
+bottom: 2vw;
+right: 2vw;
+}
